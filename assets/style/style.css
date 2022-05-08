@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.welcome_section{
+  display: block;
+  height: 100vh;
+  background-image: url(./../images/sea.jpeg);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  text-align: center;
+  color: #926239;
+  padding: 0 10vh;
+  /* margin-top: 40%; */
+}
+.welcome_heading{
+  margin-top: 0;
+  padding-top: 30vh;
+  text-transform: capitalize;
+  font-size: 2em;
+}
+.welcome_text{
+  margin-top: 0;
+  font-size: 1.1em;
+}
+.welcome_link{
+  color: #926239;
+  text-decoration: none;
+  border: #926239 1px solid;
+  margin-top: 40px;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+.brown_page{
+  color: white;
+  background-color: #926239;
+  padding: 15px;
+}
+.white_page{
+  color: #926239;
+  background-color: white;
+  padding: 15px;
+}
+.block{
+  display: inline-block;
+}
+.white{
+  color: #926239;
+  background-color: white;
+}
+.brown{
+  color: white;
+  background-color: #926239;
+}
