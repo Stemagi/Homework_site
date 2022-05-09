@@ -44,6 +44,12 @@ body{
 }
 .block{
   display: inline-block;
+  box-sizing: border-box;
+  width: 33.33%;
+  vertical-align: top;
+}
+.white, .brown{
+min-height: 150px;
 }
 .white{
   color: #926239;
